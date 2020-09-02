@@ -4,6 +4,7 @@
 ## Background
 In this project, We are studying the relationship between demographics and behavioral risk factors. The data was collected from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System. The circles represent the indivisual states of USA.
 
+![data](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 ## Your Task
 
 ## Core Assignment: D3 Dabbler (Required Assignment)
