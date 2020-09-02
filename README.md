@@ -9,5 +9,6 @@ In this project, We are studying the relationship between demographics and behav
 ## Some of the observble trends are:
 #####  The Healthcare-Poverty plot suggests that the state poverty rate plays an influential role in people's ability to obtain better healthcare coverage.
 ![d3](d3_1.png)
-
 ##### The visible trend indicates that the poorer states have higher obesity rates and greater tendencies of smoking. Wealthier states not only have higher rates of healthcare coverage, but lower obesity and smoking rates as well.
+![d3](d3_2.png)
+
