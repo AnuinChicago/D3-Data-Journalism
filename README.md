@@ -12,4 +12,5 @@ In this project, We are studying the relationship between demographics and behav
 ##### The visible trend indicates that the poorer states have higher obesity rates and greater tendencies of smoking. Wealthier states not only have higher rates of healthcare coverage, but lower obesity and smoking rates as well.
 ![d3](d3_2.png)
 ![d3](d3_3.png)
+##### The median age values in most US states are clustered between 30-45 years old. A close look at the plots with median age at the x-axis indicates some correlations such as: higher median age and higher healthcare coverage, lower median age and lower smoking rates, and finally, lower median age and lower obesity rates.
 
