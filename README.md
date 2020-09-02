@@ -11,4 +11,5 @@ In this project, We are studying the relationship between demographics and behav
 ![d3](d3_1.png)
 ##### The visible trend indicates that the poorer states have higher obesity rates and greater tendencies of smoking. Wealthier states not only have higher rates of healthcare coverage, but lower obesity and smoking rates as well.
 ![d3](d3_2.png)
+![d3](d3_3.png)
 
